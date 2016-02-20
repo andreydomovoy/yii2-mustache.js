@@ -2,8 +2,7 @@
     "name": "ando/yii2-mustache.js",
     "description": "mustache.js for Yii2",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension", "mustache.js"],
-    "license": "Apache-2.0",
+    "keywords": ["yii2","mustache.js"],
     "authors": [
         {
             "name": "ando"

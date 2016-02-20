@@ -2,9 +2,6 @@ Yii2 mustache.js
 ================
 Yii2-extension for [mustache.js](https://github.com/janl/mustache.js)
 
-This project is distributed under the terms of the
-[Apache Software License, Version 2](LICENSE.md).
-
 Installation
 ------------
 

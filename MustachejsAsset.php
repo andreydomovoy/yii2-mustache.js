@@ -9,7 +9,7 @@ use yii\web\AssetBundle;
  */
 class MustachejsAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/mustache.js';
+    public $sourcePath = '@bower/bower-asset/mustache.js';
     public $js = [
         'mustache.js',
     ];

@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist xfg/yii2-mustache.js "*"
+php composer.phar require --prefer-dist ando/yii2-mustache.js "*"
 ```
 
 or add
 
 ```
-"xfg/yii2-mustache.js": "*"
+"ando/yii2-mustache.js": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -32,6 +32,6 @@ Once the extension is installed, simply add next code to your asset bundle  :
 
 ```
 public $depends = [
-    'xfg\mustachejs\MustachejsAsset',
+    'ando\mustachejs\MustachejsAsset',
 ];
 ```

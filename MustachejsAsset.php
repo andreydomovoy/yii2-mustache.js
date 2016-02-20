@@ -6,7 +6,6 @@ use yii\web\AssetBundle;
 
 /**
  * Asset bundle for the mustache templates for JS.
- *
  */
 class MustachejsAsset extends AssetBundle
 {

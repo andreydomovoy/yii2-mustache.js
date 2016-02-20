@@ -4,7 +4,7 @@
  * @license https://github.com/xfg/yii2-mustache.js/blob/master/README.md
  */
 
-namespace xfg\mustachejs;
+namespace ando\mustachejs;
 
 use yii\web\AssetBundle;
 

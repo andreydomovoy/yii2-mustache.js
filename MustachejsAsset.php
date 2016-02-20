@@ -1,17 +1,12 @@
 <?php
-/**
- * @link https://github.com/xfg/yii2-mustache.js
- * @license https://github.com/xfg/yii2-mustache.js/blob/master/README.md
- */
 
 namespace ando\mustachejs;
 
 use yii\web\AssetBundle;
 
 /**
- * Asset bundle for the mustache minimal templates for javascript.
+ * Asset bundle for the mustache templates for JS.
  *
- * @author Timofey Suchkov <timofey.web@gmail.com>
  */
 class MustachejsAsset extends AssetBundle
 {
